@@ -1,4 +1,4 @@
-# TwitterToolkit - Chrome extension
+# TwitterToolkit - ChromeExtension
 
  A chrome extension that allows user to share text, images, links and page to their Twitter account from any web page.
 
